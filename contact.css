@@ -1,0 +1,94 @@
+html{
+  background-image: url(photo..jpg);
+}
+.menu{
+    letter-spacing: 1;
+    word-spacing: 11px;
+    color: whitesmoke;
+    background-color: darkblue;
+  
+   
+  
+}  
+a{
+  text-decoration: solid;
+  color: whitesmoke;
+  font-style: oblique;
+  
+}  
+b{
+  color: yellow;
+  
+}  
+
+.in{
+  color: white;
+  text-align: center;
+}
+.address{
+  color: #fae3f5;
+}
+.address1{
+  color: blue;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.phone{
+  color: white;
+}
+.phone1{
+  color: blue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.email{
+  color: white;
+}
+.email1{
+  color:blue;
+}
+#email{
+  color: #000;
+  background-color: #fae3f5; 
+  border-radius: 5px;
+  
+}
+h2{
+  color: white;
+  text-align: center;
+}
+.container1{
+  color: black;
+  background-color: white;
+  width: 230px;
+  height: 250px;
+ margin-left: 250px;
+ margin-top: -300px;
+}
+input{
+  color: #000;
+ 
+  margin-left: 20px;
+  border-radius: 5px;
+  border-top-style: hidden;
+  border-left-style: hidden;
+  border-right-style: hidden;
+  border-bottom-style: groove ;
+}
+textarea{
+  margin-left: 20px;
+  border-radius: 10px;
+  color: #000;
+  background-color: aqua;
+}
+button{
+  color: white;
+  background-color: blue;
+ margin-left: 50px;
+ border-radius: 6px;
+ width: 50px;
+ height: 29px;
+ 
+}
+.qq{
+  color:black ;
+}
+body{font-family: Verdana, sans-serif; margin:0}

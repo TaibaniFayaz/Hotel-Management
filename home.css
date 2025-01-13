@@ -1,0 +1,139 @@
+html{
+  background-image: url(photo..jpg);
+}
+.menu{
+    letter-spacing: 1;
+    word-spacing: 11px;
+    color: whitesmoke;
+    background-color: darkblue;
+  
+   
+  
+}  
+a{
+  text-decoration: solid;
+  color: whitesmoke;
+  font-style: oblique;
+  
+
+}  
+b{
+  color: yellow;
+  
+}  
+  
+.au{
+  
+  text-decoration: overline rgb(19, 18, 19) ;
+ color: yellow;
+ font-size: x-large;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.wt{
+  color: white;
+  text-decoration: solid;
+  font-style: italic;
+  font-size: larger;
+ 
+
+}
+.hgl{
+  color: yellow;
+  font-size: x-large;
+
+  }
+.hotel{
+  color: skyblue;
+  background-color:black;
+  height: 150px;
+  width: 150px;
+  margin-left: 110px;
+  text-align: center;
+  border-radius: 50px;
+  margin-top: 50px;
+  border-top-style: double;
+  border-bottom-style: double;
+  border-left-style: double;
+  border-right-style: double;
+  border-bottom-left-radius: 11px;
+  border-top-right-radius: 11px;
+  border-color: blue;
+}
+
+.hotel1{
+  color: skyblue;
+  background-color: black;
+  height: 150px;
+  width: 150px;
+  margin-left: 110px;
+  text-align: center;
+   border-radius: 50px;
+  margin-top: 50px;
+  border-top-style: double;
+  border-bottom-style: double;
+  border-left-style: double;
+  border-right-style: double  ;
+  border-bottom-left-radius: 11px;
+   border-top-right-radius: 11px;
+   border-color: blue
+}
+.hotel2{
+  color: skyblue;
+  background-color: black ;
+  height: 150px;
+  width: 150px;
+  margin-left: 110px;
+  text-align: center;
+  border-radius: 50px;
+  margin-top: 50px;
+  border-top-style: double;
+  border-bottom-style: double;
+  border-left-style: double;
+  border-right-style: double;
+  border-bottom-left-radius: 11px;
+  border-top-right-radius: 11px;
+border-color: blue;
+}
+.button1{
+ justify-content: center;
+ margin-right: 200px;
+background-color: blue;
+color: white;
+width: 150px;
+height: 50px;
+border-radius: 50px;
+&:hover{
+  color: white;
+  background-color: black;
+ 
+}
+ }
+ .button2{
+  justify-content: center;
+  background-color: black;
+  color: white;
+  width: 150px;
+  height: 50px;
+  border-radius: 50px;
+  border-style: double;
+   &:hover{
+    color: white;
+    background-color: blue;
+  }
+ }
+ .hh{
+  color: white;
+ }
+footer{
+  color: white;
+  background-color: darkblue;
+ }
+ .footer{
+  word-spacing: 11px;
+  letter-spacing: 1px;
+  margin-left: 71px;
+ }
+.icons{
+  letter-spacing: 11px;
+  margin-left: 31px;
+}
